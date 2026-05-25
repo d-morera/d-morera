@@ -2,86 +2,111 @@
 
 <p align="center">
   <b>Artificial Intelligence and Computing Student</b><br>
-  Applied AI · Machine Learning · Agentic Systems
+  Applied AI • Machine Learning • Agentic Systems
 </p>
 
 <p align="center">
-  Madrid, Spain · UAX · Open to internship opportunities
+  📍 Madrid, Spain &nbsp;•&nbsp; 🎓 Universidad Alfonso X el Sabio &nbsp;•&nbsp; 🚀 Open to internships
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/daniel-morera-0307522b5">LinkedIn</a> •
+  <a href="https://github.com/d-morera">GitHub</a> •
+  <a href="mailto:danimorera2005@gmail.com">Email</a>
 </p>
 
 ---
 
-## What I'm doing right now
+## 🧠 About Me
 
-- Studying **Artificial Intelligence and Computing** at **Universidad Alfonso X el Sabio (UAX)**
-- Building projects in **applied AI**, **machine learning**, and **agentic systems**
-- Interested in turning ideas into practical **end-to-end solutions**
-- Looking for internship opportunities in **AI, ML, and software engineering**
+I am currently studying **Artificial Intelligence and Computing** at **Universidad Alfonso X el Sabio (UAX)** in Madrid, with previous academic experience in the United States.
 
----
+I am especially interested in **applied AI**, **machine learning**, **LLMs**, and **agentic systems**, with a strong focus on building practical **end-to-end solutions** through real projects.
 
-## Tech I work with
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Applied AI & ML:** Agentic Systems · Machine Learning · LLM Workflows · Model Evaluation · Feature Engineering  
-**Engineering:** Python · SQL · REST APIs · Dashboards · Data Pipelines · Git/GitHub
+- 🎯 Interested in turning ideas into real AI systems  
+- 🛠️ Building a portfolio around applied AI and intelligent systems  
+- 📚 Learning by building, iterating, and improving  
+- 🤝 Open to internship opportunities in AI, ML, and software engineering  
 
 ---
 
-## Things I've built
+## ⚙️ Tech I Work With
 
-### [Agentic Patient Monitoring](https://github.com/d-morera)
-Agentic AI project for elderly patient monitoring based on automated voice interaction, daily risk scoring, and dashboard-based supervision. Designed to reduce the technological barrier for older patients while helping doctors prioritize cases in real time.  
-**Tech:** Python · Agentic Systems · Voice-based Workflows · Dashboards
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
-### [FL Recommender](https://github.com/d-morera)
-Machine learning project for university admission prediction and Top-K recommendation, built using real student data provided by an education company. Combines academic data with external ranking information to support more realistic decision-making.  
-**Tech:** Python · Scikit-learn · Feature Engineering · Model Evaluation
-
----
-
-## What interests me most
-
-- Applied Artificial Intelligence
-- Machine Learning
+### 🔍 Areas I'm Focused On
 - Agentic Systems
-- LLM-based applications
-- AI products with real-world impact
-- End-to-end technical project building
+- Machine Learning
+- Applied Artificial Intelligence
+- LLM Workflows
+- Model Evaluation
+- Feature Engineering
+- REST APIs
+- Data Pipelines
+- Dashboards
 
 ---
 
-## Education
+## 🚀 Things I've Built
+
+### 🩺 [Agentic Patient Monitoring](https://github.com/d-morera)
+Agentic AI project for elderly patient monitoring through **automated voice interaction**, **daily risk scoring**, and **dashboard-based supervision**.
+
+Designed to reduce the technological barrier for older patients while helping doctors prioritize cases in real time.
+
+**Tech:** `Python` `Agentic Systems` `Voice-based Workflows` `Dashboards`
+
+---
+
+### 🎓 [FL Recommender](https://github.com/d-morera)
+Machine learning project for **university admission prediction** and **Top-K recommendation**, built using **real student data provided by an education company**.
+
+Combines academic data with external ranking information to support more realistic decision-making.
+
+**Tech:** `Python` `Scikit-learn` `Feature Engineering` `Model Evaluation`
+
+---
+
+## 🌱 Current Focus
+
+- Building practical AI projects with real-world use
+- Learning more about AI systems, LLM workflows, and product-oriented development
+- Strengthening my technical profile through hands-on work and continuous learning
+
+---
+
+## 🎓 Education
 
 **Universidad Alfonso X el Sabio (UAX)**  
 BSc in Artificial Intelligence and Computing  
-Sep 2024 – Jun 2028 (expected)
+📅 Sep 2024 – Jun 2028 (expected)
 
 **North Carolina State University**  
 Previous university studies  
-Sep 2023 – Jun 2024
+📅 Sep 2023 – Jun 2024
 
 ---
 
-## Reach me
+## 🌍 Languages
 
-- **LinkedIn:** [linkedin.com/in/daniel-morera-0307522b5](https://linkedin.com/in/daniel-morera-0307522b5)
-- **Email:** danimorera2005@gmail.com
-- **GitHub:** [github.com/d-morera](https://github.com/d-morera)
+- Spanish 🇪🇸 Native
+- English 🇬🇧 Fluent (C1 equivalent)
+- Basque Intermediate
+- French Basic
 
 ---
 
-## Languages
+## 📫 Reach Me
 
-- Spanish (native)
-- English (C1 equivalent)
-- Basque (intermediate)
-- French (basic)
+- 💼 [LinkedIn](https://linkedin.com/in/daniel-morera-0307522b5)
+- 📧 [danimorera2005@gmail.com](mailto:danimorera2005@gmail.com)
+- 🐙 [github.com/d-morera](https://github.com/d-morera)
